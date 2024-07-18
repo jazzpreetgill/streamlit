@@ -1,4 +1,4 @@
-from pycaret.regression import load_model, predict_model
+from pycaret.regression import *
 import streamlit as st
 import pandas as pd
 import numpy as np
